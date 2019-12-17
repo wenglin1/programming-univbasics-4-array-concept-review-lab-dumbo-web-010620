@@ -3,7 +3,7 @@ def find_element_index(array, value_to_find)
 end
 
 def find_max_value(array)
-  array.sort() = new_array
+  array.max { |a, b|  }
   return new_array[-1]
 end
 
